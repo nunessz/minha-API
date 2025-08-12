@@ -2,7 +2,7 @@
 
 Na aula de hoje aprendemos a fazer nossa propria API
 
-utilizamos:
+Utilizamos:
 - express
 - mathjs
 - node.js
